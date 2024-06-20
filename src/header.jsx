@@ -1,6 +1,6 @@
-// src/header.jsx
+
 import React from 'react';
-import './header.css'; // Ensure this matches the case of the CSS file
+import './header.css'; 
 
 const Header = () => {
   return (
