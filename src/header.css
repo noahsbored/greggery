@@ -1,0 +1,21 @@
+/* src/Header.css */
+.header {
+    position: relative;
+    text-align: center;
+    color: blue;
+    white-space: nowrap;
+  }
+  
+  .header-background {
+    width: 50%;
+    height: auto;
+  }
+  
+  .header-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+  }
+  
